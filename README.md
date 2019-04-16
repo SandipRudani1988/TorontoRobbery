@@ -25,7 +25,7 @@ This repository contains detailed analysis of Robbery dataset to evaluate histor
   - Weather  
   
   ## Analysis:
-  -  By Type: `TorontoRobbery-Type.ipynb`
+  -  By Type: `TorontoRobbery_Type.ipynb`
   -  By Neighbouthood: `TorontoRobbery_Neighbourhood.ipynb`
   -  By Time/Weather: `TorontoRobbery_Time_Weather.ipynb`
   -  By Division/Reporting:  `Toronto_Robbery_AfterHours.ipynb`
